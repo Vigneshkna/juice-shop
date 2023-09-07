@@ -102,3 +102,6 @@ export const solveFixIt = async function (key: string, isRestore: boolean) {
     antiCheat.calculateFixItCheatScore(solvedChallenge)
   }
 }
+
+
+
